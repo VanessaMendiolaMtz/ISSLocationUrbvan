@@ -1,4 +1,4 @@
-package com.example.isslocation.entity
+package com.example.isslocation.entity.iss
 
 import com.google.gson.annotations.SerializedName
 

@@ -1,10 +1,10 @@
-package com.example.isslocation.ui.activity
+package com.example.isslocation.ui.activity.maps
 
 import android.os.Handler
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.isslocation.entity.repository.ISSRepository
+import com.example.isslocation.entity.iss.repository.ISSRepository
 import com.google.android.gms.maps.model.LatLng
 import io.reactivex.disposables.CompositeDisposable
 import javax.inject.Inject

@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.example.isslocation.di.ViewModelFactory
 import com.example.isslocation.di.ViewModelKey
-import com.example.isslocation.ui.activity.MapsViewModel
+import com.example.isslocation.ui.activity.maps.MapsViewModel
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap

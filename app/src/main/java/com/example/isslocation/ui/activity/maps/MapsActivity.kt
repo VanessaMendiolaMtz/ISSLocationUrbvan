@@ -1,4 +1,4 @@
-package com.example.isslocation.ui.activity
+package com.example.isslocation.ui.activity.maps
 
 import android.os.Bundle
 import android.widget.Toast

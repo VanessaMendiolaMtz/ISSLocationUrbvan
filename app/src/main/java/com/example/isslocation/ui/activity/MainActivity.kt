@@ -1,4 +1,4 @@
-package com.example.isslocation.ui
+package com.example.isslocation.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

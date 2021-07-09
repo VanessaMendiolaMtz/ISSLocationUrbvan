@@ -1,6 +1,6 @@
-package com.example.isslocation.entity.repository
+package com.example.isslocation.entity.iss.repository
 import com.example.isslocation.api.ISSLocationApi
-import com.example.isslocation.entity.ISS
+import com.example.isslocation.entity.iss.ISS
 import io.reactivex.Observable
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers

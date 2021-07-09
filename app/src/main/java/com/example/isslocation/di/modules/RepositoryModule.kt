@@ -1,6 +1,6 @@
 package com.example.isslocation.di.modules
 
-import com.example.isslocation.entity.repository.ISSRepository
+import com.example.isslocation.entity.iss.repository.ISSRepository
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit

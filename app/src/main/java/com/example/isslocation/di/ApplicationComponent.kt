@@ -4,7 +4,7 @@ import com.example.isslocation.di.modules.AppModule
 import com.example.isslocation.di.modules.NetworkModule
 import com.example.isslocation.di.modules.RepositoryModule
 import com.example.isslocation.di.modules.ViewModelModule
-import com.example.isslocation.ui.activity.MapsActivity
+import com.example.isslocation.ui.activity.maps.MapsActivity
 import dagger.Component
 
 @Component(modules = [
